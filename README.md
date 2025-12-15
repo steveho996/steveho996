@@ -1,13 +1,10 @@
 # 💫About Me :
 Hi there, I am from Vietnam, living in Finland
-👀 : Here is my personal website 
-✍️ : There is my blog and articles
-✍️ : I am the author of Monitoring series in DevOpsEdu
-📧 : Contact me at admin@crfnetwork.com
+👀 : A Fresher Data Analyst 
+📧 : Contact me at holuongduc@gmail.com
 ❤️ : I'm passionate about:
-🔐 Cyber Security
-🪐 Operating Systems (Windows & Linux)
-🖥️ Website Developer
+🔐 Performance Marketing
+🪐 Data Visualisation
 📝 Writeups and Documenting
 
 ## 🌐Socials
