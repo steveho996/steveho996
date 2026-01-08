@@ -15,6 +15,11 @@ If you’re looking for someone who can own the analytics workflow, communicate 
 
 # 💻Tech Stack
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![IBM Db2](https://img.shields.io/badge/IBM%20Db2-%23054ADA.svg?style=for-the-badge&logo=ibm&logoColor=white) ![SAP HANA](https://img.shields.io/badge/SAP%20HANA-%230C7ECF.svg?style=for-the-badge&logo=sap&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![CapCut](https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+# Certification
+<img src="https://github.com/user-attachments/assets/71c09318-cf8b-4127-96b2-e2c33b4fc9ec" width="310" />
+<img src="https://github.com/user-attachments/assets/52f4b886-fc9c-48fa-bba6-fb65b00899dd" width="310" />
+<img src="https://github.com/user-attachments/assets/e73fb975-5cf1-403e-821d-831da8f647c2" width="310" />
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=steveho996&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=steveho996&theme=jolly&hide_border=true)<br/>
