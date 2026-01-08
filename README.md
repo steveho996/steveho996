@@ -6,8 +6,7 @@ I specialize in SQL, Power BI, and logistics/marketing/finance analytics, with a
 
 📧 : Contact me at holuongduc@gmail.com
 
-My projects reflect how I think: structured, practical, and impact‑driven. Whether it’s route profitability, fleet maintenance optimization, or driver performance analytics, I aim to solve real operational problems with clarity and precision.
-I’m currently building a portfolio of logistics analytics projects that showcase: my mindset, my workflow and skills.
+My projects reflect how I think (structured, practical, and impact‑driven),  my mindset, my workflow and skills. I aim to solve real operational problems with clarity and precision. my mindset, my workflow and skills.
 If you’re looking for someone who can own the analytics workflow, communicate insights clearly, and bring a problem‑solver’s mindset to your team, I’d love to connect.
 
 ## 🌐Socials
