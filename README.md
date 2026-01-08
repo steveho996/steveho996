@@ -1,8 +1,11 @@
 # 💫About Me :
 Hi, I’m Duc — a data analyst who turns messy operational data into clear, actionable insights.
 I specialize in SQL, Power BI, and logistics/marketing/finance analytics, with a strong focus on building dashboards and analytical models that drive real business decisions.
+
 👀 : A Fresher Data Analyst 
+
 📧 : Contact me at holuongduc@gmail.com
+
 My projects reflect how I think: structured, practical, and impact‑driven. Whether it’s route profitability, fleet maintenance optimization, or driver performance analytics, I aim to solve real operational problems with clarity and precision.
 I’m currently building a portfolio of logistics analytics projects that showcase: my mindset, my workflow and skills.
 If you’re looking for someone who can own the analytics workflow, communicate insights clearly, and bring a problem‑solver’s mindset to your team, I’d love to connect.
