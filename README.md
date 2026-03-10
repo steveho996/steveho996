@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi, I’m Duc — a data analyst who turns messy operational data into clear, actionable insights.
+Hi, I’m Steve Ho — a data analyst who turns messy operational data into clear, actionable insights.
 I specialize in SQL, Power BI, and logistics/marketing/finance analytics, with a strong focus on building dashboards and analytical models that drive real business decisions.
 
 👀 : A Fresher Data Analyst 
