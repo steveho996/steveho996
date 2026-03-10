@@ -4,7 +4,7 @@ I specialize in SQL, Power BI, and logistics/marketing/finance analytics, with a
 
 👀 : A Fresher Data Analyst 
 
-📧 : Contact me at holuongduc@gmail.com
+📧 : Contact me at steveho996@gmail.com
 
 My projects reflect how I think (structured, practical, and impact‑driven),  my mindset, my workflow and skills. I aim to solve real operational problems with clarity and precision. my mindset, my workflow and skills.
 If you’re looking for someone who can own the analytics workflow, communicate insights clearly, and bring a problem‑solver’s mindset to your team, I’d love to connect.
