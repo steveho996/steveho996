@@ -10,7 +10,7 @@ My projects reflect how I think (structured, practical, and impact‑driven),  m
 If you’re looking for someone who can own the analytics workflow, communicate insights clearly, and bring a problem‑solver’s mindset to your team, I’d love to connect.
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/steve-ho-/](https://www.linkedin.com/in/steve-ho-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steve-ho-/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hld_steve/)
 
 # 💻Tech Stack
