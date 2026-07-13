@@ -19,15 +19,8 @@ If you’re looking for someone who can own the analytics workflow, communicate 
 <img src="https://github.com/user-attachments/assets/71c09318-cf8b-4127-96b2-e2c33b4fc9ec" width="210" />
 <img src="https://github.com/user-attachments/assets/52f4b886-fc9c-48fa-bba6-fb65b00899dd" width="210" />
 <img src="https://github.com/user-attachments/assets/e73fb975-5cf1-403e-821d-831da8f647c2" width="210" />
-<img src="https://images.credly.com/impact/770f1ea9-0c5e-440e-ac7e-dd4f293a518e.png"
-     width="210"
-     alt="Microsoft Azure Data Fundamentals DP-900"
-     title="Microsoft Azure Data Fundamentals (DP-900)" />
-
-<img src="https://images.credly.com/impact/aec8bd80-6956-486d-b122-5d1fd0ea740e.png"
-     width="210"
-     alt="Microsoft Azure Fundamentals AZ-900"
-     title="Microsoft Azure Fundamentals (AZ-900)" />
+<img src="https://images.credly.com/impact/770f1ea9-0c5e-440e-ac7e-dd4f293a518e.png" width="210" />
+<img src="https://images.credly.com/impact/aec8bd80-6956-486d-b122-5d1fd0ea740e.png" width="210" />
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=steveho996&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)<br/>
